@@ -1,0 +1,15 @@
+D:\Study\PA Labs\GraphColoring\GraphColoring\bin\Debug\net6.0\GraphColoring.exe
+D:\Study\PA Labs\GraphColoring\GraphColoring\bin\Debug\net6.0\GraphColoring.deps.json
+D:\Study\PA Labs\GraphColoring\GraphColoring\bin\Debug\net6.0\GraphColoring.runtimeconfig.json
+D:\Study\PA Labs\GraphColoring\GraphColoring\bin\Debug\net6.0\GraphColoring.dll
+D:\Study\PA Labs\GraphColoring\GraphColoring\bin\Debug\net6.0\GraphColoring.pdb
+D:\Study\PA Labs\GraphColoring\GraphColoring\obj\Debug\net6.0\GraphColoring.csproj.AssemblyReference.cache
+D:\Study\PA Labs\GraphColoring\GraphColoring\obj\Debug\net6.0\GraphColoring.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\PA Labs\GraphColoring\GraphColoring\obj\Debug\net6.0\GraphColoring.AssemblyInfoInputs.cache
+D:\Study\PA Labs\GraphColoring\GraphColoring\obj\Debug\net6.0\GraphColoring.AssemblyInfo.cs
+D:\Study\PA Labs\GraphColoring\GraphColoring\obj\Debug\net6.0\GraphColoring.csproj.CoreCompileInputs.cache
+D:\Study\PA Labs\GraphColoring\GraphColoring\obj\Debug\net6.0\GraphColoring.dll
+D:\Study\PA Labs\GraphColoring\GraphColoring\obj\Debug\net6.0\refint\GraphColoring.dll
+D:\Study\PA Labs\GraphColoring\GraphColoring\obj\Debug\net6.0\GraphColoring.pdb
+D:\Study\PA Labs\GraphColoring\GraphColoring\obj\Debug\net6.0\GraphColoring.genruntimeconfig.cache
+D:\Study\PA Labs\GraphColoring\GraphColoring\obj\Debug\net6.0\ref\GraphColoring.dll
