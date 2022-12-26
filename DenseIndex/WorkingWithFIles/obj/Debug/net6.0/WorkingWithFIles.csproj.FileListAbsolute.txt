@@ -1,0 +1,17 @@
+D:\Study\PA Labs\DenseIndex\WorkingWithFIles\bin\Debug\net6.0\WorkingWithFIles.exe
+D:\Study\PA Labs\DenseIndex\WorkingWithFIles\bin\Debug\net6.0\WorkingWithFIles.deps.json
+D:\Study\PA Labs\DenseIndex\WorkingWithFIles\bin\Debug\net6.0\WorkingWithFIles.runtimeconfig.json
+D:\Study\PA Labs\DenseIndex\WorkingWithFIles\bin\Debug\net6.0\WorkingWithFIles.dll
+D:\Study\PA Labs\DenseIndex\WorkingWithFIles\bin\Debug\net6.0\WorkingWithFIles.pdb
+D:\Study\PA Labs\DenseIndex\WorkingWithFIles\obj\Debug\net6.0\WorkingWithFIles.csproj.AssemblyReference.cache
+D:\Study\PA Labs\DenseIndex\WorkingWithFIles\obj\Debug\net6.0\WorkingWithFIles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\PA Labs\DenseIndex\WorkingWithFIles\obj\Debug\net6.0\WorkingWithFIles.AssemblyInfoInputs.cache
+D:\Study\PA Labs\DenseIndex\WorkingWithFIles\obj\Debug\net6.0\WorkingWithFIles.AssemblyInfo.cs
+D:\Study\PA Labs\DenseIndex\WorkingWithFIles\obj\Debug\net6.0\WorkingWithFIles.csproj.CoreCompileInputs.cache
+D:\Study\PA Labs\DenseIndex\WorkingWithFIles\obj\Debug\net6.0\WorkingWithFIles.dll
+D:\Study\PA Labs\DenseIndex\WorkingWithFIles\obj\Debug\net6.0\refint\WorkingWithFIles.dll
+D:\Study\PA Labs\DenseIndex\WorkingWithFIles\obj\Debug\net6.0\WorkingWithFIles.pdb
+D:\Study\PA Labs\DenseIndex\WorkingWithFIles\obj\Debug\net6.0\WorkingWithFIles.genruntimeconfig.cache
+D:\Study\PA Labs\DenseIndex\WorkingWithFIles\obj\Debug\net6.0\ref\WorkingWithFIles.dll
+D:\Study\PA Labs\DenseIndex\WorkingWithFIles\bin\Debug\net6.0\RandomNameGeneratorLibrary.dll
+D:\Study\PA Labs\DenseIndex\WorkingWithFIles\obj\Debug\net6.0\WorkingWithFIles.csproj.CopyComplete
