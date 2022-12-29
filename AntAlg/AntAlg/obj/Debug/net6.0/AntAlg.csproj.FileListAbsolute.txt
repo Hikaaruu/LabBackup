@@ -1,0 +1,15 @@
+D:\Study\PA Labs\AntAlg\AntAlg\bin\Debug\net6.0\AntAlg.exe
+D:\Study\PA Labs\AntAlg\AntAlg\bin\Debug\net6.0\AntAlg.deps.json
+D:\Study\PA Labs\AntAlg\AntAlg\bin\Debug\net6.0\AntAlg.runtimeconfig.json
+D:\Study\PA Labs\AntAlg\AntAlg\bin\Debug\net6.0\AntAlg.dll
+D:\Study\PA Labs\AntAlg\AntAlg\bin\Debug\net6.0\AntAlg.pdb
+D:\Study\PA Labs\AntAlg\AntAlg\obj\Debug\net6.0\AntAlg.csproj.AssemblyReference.cache
+D:\Study\PA Labs\AntAlg\AntAlg\obj\Debug\net6.0\AntAlg.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\PA Labs\AntAlg\AntAlg\obj\Debug\net6.0\AntAlg.AssemblyInfoInputs.cache
+D:\Study\PA Labs\AntAlg\AntAlg\obj\Debug\net6.0\AntAlg.AssemblyInfo.cs
+D:\Study\PA Labs\AntAlg\AntAlg\obj\Debug\net6.0\AntAlg.csproj.CoreCompileInputs.cache
+D:\Study\PA Labs\AntAlg\AntAlg\obj\Debug\net6.0\AntAlg.dll
+D:\Study\PA Labs\AntAlg\AntAlg\obj\Debug\net6.0\refint\AntAlg.dll
+D:\Study\PA Labs\AntAlg\AntAlg\obj\Debug\net6.0\AntAlg.pdb
+D:\Study\PA Labs\AntAlg\AntAlg\obj\Debug\net6.0\AntAlg.genruntimeconfig.cache
+D:\Study\PA Labs\AntAlg\AntAlg\obj\Debug\net6.0\ref\AntAlg.dll
